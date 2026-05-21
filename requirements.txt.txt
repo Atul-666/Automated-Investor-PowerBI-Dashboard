@@ -1,0 +1,9 @@
+pandas
+numpy
+yfinance
+pandas-ta
+pydantic
+google-generativeai
+matplotlib
+powerbiclient
+jupyter
