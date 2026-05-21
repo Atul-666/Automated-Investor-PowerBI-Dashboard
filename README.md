@@ -164,12 +164,34 @@ This architecture enables scalable business intelligence reporting and dashboard
 
 ---
 
-## Signal Intelligence Matrix
+## Fundamental Analysis
 
-![Signals](screenshots/signals.png)
+![Signals](screenshots/fundamental-analysis.png)
 
 ---
 
+---
+
+## Price and Volume Trend
+
+![Signals](screenshots/price-volume-trend.png)
+
+---
+---
+
+## Sentiment Analysis
+
+![Signals](screenshots/sentiment-analysis.png)
+
+---
+
+---
+
+## Technical Signals
+
+![Signals](screenshots/technical-signal.png)
+
+---
 # 📁 Project Structure
 
 ```text
