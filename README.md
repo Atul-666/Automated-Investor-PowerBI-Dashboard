@@ -380,28 +380,6 @@ This project demonstrates practical implementation of:
 
 ---
 
-# 👨‍💻 Contributors
-
-- Jayasuriya P
-- Vijay J
-- A Atul
-- Ayushi Aggarwal
-- Avatansh Pandey
-
----
-
-# 📄 Academic Context
-
-This project was developed as part of:
-
-**Data Visualization, Ethics and Privacy: MPBA G511**  
-Birla Institute of Technology and Science, Pilani
-
----
-
-# 📜 License
-
-This project is developed for academic and educational purposes.
 
 ---
 
